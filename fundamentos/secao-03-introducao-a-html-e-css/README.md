@@ -7,8 +7,7 @@
   <body>
     <h1>Exercícios</h1>
     <ol>
-      <li> <a href="#joao" git push
-      <li> João</li>
+      <li> <a href="#joao">João</li>
       <li> <a href="#maria">Maria</li>
       <li> <a href="gabriel">Gabriel</li>
     </ol>
