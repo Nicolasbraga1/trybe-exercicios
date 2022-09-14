@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <ol>
+      <li> <a href="#joao" </a> João</li>
+      <li> <a href="#maria"</a>Maria</li>
+      <li> <a href="gabriel"</a>Gabriel</li>
+    </ol>
+    <p id="joao">João</p>
+    <p id="maria">Maria</p>
+    <p id="gabriel">Gabriel</p>
+    <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7FB96KbRMpV9ai3IY5Nz5I08taPeyRnMzQ&usqp=CAU" width="600px">
+    <img src=" 888559.jpg" width="600px">
+    <a>href="google.com" target="_blank" </a>
+  </body>
+</html>
