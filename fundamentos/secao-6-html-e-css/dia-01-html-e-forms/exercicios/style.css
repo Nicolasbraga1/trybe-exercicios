@@ -1,0 +1,12 @@
+@import './node_modules/pikaday/css/pikaday.css';
+body{
+ background-color: #CCB7C5;
+ margin: 40px auto;
+ max-width: 80%;
+}
+header, form {
+  background-color: #9ED0E6;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0;
+}
