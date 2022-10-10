@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu';
+}
+
+.header-img {
+  width: 70px;
+}
+
+.gallery-img {
+  width: 150px;
+}
+
+.social-img {
+  width: 25px;
+  margin-left: 10px;
+}
+h1, h3 {
+  color: white;
+}
+header {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 10px;
+}
+.first {
+  display: flex;
+  justify-content: center;
+}
+.second {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: baseline;
+  margin: 10px 10px;
+}
+.third {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: baseline;
+  margin: 10px 10px
+}
+.footer{
+  display: flex;
+  justify-content: center;
+
+}
+div{
+  border-radius: 10px;
+  background-color: gainsboro;
+  padding-top: 10px;
+  margin-right: 10px;
+}
+h4 {
+  display: flex;
+  flex-flow: column wrap;
+  align-content: center;
+  align-items: center;
+}
+img{
+  margin: 10px 10px;
+}
+.react{
+  height: 202px;
+}
