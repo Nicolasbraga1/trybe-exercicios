@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Nicolasbraga1/trybe-exercicios#readme",
   "devDependencies": {
     "jest": "^29.2.1"
+  },
+  "dependencies": {
+    "validator": "^13.7.0"
   }
 }
