@@ -52,7 +52,7 @@ app.post('/movies', async (req, res) => {
   }
 });
 
-app.post('/movies', async (req, res) => {
+app.put('/movies', async (req, res) => {
   try {
     const { movie, price } = req.body;
     const { id } = req.params;
@@ -94,4 +94,4 @@ app.get('/movies/search', async (req, res) => {
   }
 });
 
-module.exports(app);
+module.exports = app;
